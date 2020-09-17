@@ -1,0 +1,31 @@
+.mainhead {
+  color: rgb(61, 61, 61);
+  font-size: 40px;
+  font-weight: 800;
+  margin: 10px;
+}
+hr {
+  border: 2px solid rgb(61, 61, 61);
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.mainNav {
+  display: flex;
+  background-color: rgb(61, 61, 61);
+}
+.navblocks {
+  text-align: center;
+  margin: 5px;
+  color: white;
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 200px;
+  font-size: 20px;
+}
+
+.navblocks:hover {
+  background-color: darkgray;
+  color: black;
+}

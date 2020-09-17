@@ -1,0 +1,30 @@
+.mainBlock1 {
+  border: 2px solid, rgb(61, 61, 61);
+}
+
+.dateControlHeader {
+  color: rgb(61, 61, 61);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.crimeControlHeader {
+  color: rgb(61, 61, 61);
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.dataControl {
+  display: flex;
+  justify-content: space-around;
+}
+.divideLine {
+  margin-top: 20px;
+}
+
+.mainhead1 {
+  margin: 10px;
+  color: rgb(61, 61, 61);
+  font-size: 20px;
+  font-weight: 700;
+}
